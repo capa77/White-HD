@@ -1,0 +1,10 @@
+Package: enigma2-skin-whitehd
+Version: 1.1
+Description: DreamboxOS Skin ModestFHD for Merlin4
+Section: base
+Priority: optional
+Maintainer: capa
+Architecture: all
+OE: enigma2-skins
+PackageArch: all
+Depends: enigma2 (>=4.2), enigma2-plugin-skincomponents-cover, enigma2-plugin-skincomponents-reftomoviename, enigma2-plugin-skincomponents-eventposition, enigma2-plugin-skincomponents-eventlist, enigma2-plugin-skincomponents-reftopiconname, enigma2-plugin-skincomponents-runningtext

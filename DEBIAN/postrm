@@ -1,0 +1,8 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+rm -rf /usr/share/enigma2/White-HD
+#rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MediaPortal/skins/ModestFHD
+#rm /usr/share/fonts/sf_r.ttf
+#rm /usr/share/fonts/sf_b.ttf
+#rm /usr/share/fonts/sfc_i.ttf
+exit 0

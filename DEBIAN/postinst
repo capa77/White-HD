@@ -1,0 +1,4 @@
+#!/bin/sh
+# echo "Support: http://board.dreambox-tools.info"
+echo "White-HD for Dreambox 7080HD"
+exit 0
